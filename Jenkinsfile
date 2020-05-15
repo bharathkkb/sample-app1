@@ -1,7 +1,7 @@
 pipeline {
 
   environment {
-    PROJECT = "andrewshahan_tam_sandbox"
+    PROJECT = "andrewshahan-tam-sandbox"
     APP_NAME = "gceme"
     FE_SVC_NAME = "${APP_NAME}-frontend"
     CLUSTER = "jenkins-cd"
